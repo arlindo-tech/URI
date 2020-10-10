@@ -21,7 +21,7 @@ int main(){
                 somac+=m[j][i];
                 v[m[i][j]]++;
                 }
-            if(somal!=45 || somac!=45){
+            if(somal!=45 || somac!=45){//ESTRATÉGIA ERRADA
                 i=9;
                 x=1;
             }
